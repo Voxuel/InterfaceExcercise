@@ -1,0 +1,14 @@
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\bin\Debug\netcoreapp3.1\InterfaceExcercise.exe
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\bin\Debug\netcoreapp3.1\InterfaceExcercise.deps.json
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\bin\Debug\netcoreapp3.1\InterfaceExcercise.runtimeconfig.json
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\bin\Debug\netcoreapp3.1\InterfaceExcercise.runtimeconfig.dev.json
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\bin\Debug\netcoreapp3.1\InterfaceExcercise.dll
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\bin\Debug\netcoreapp3.1\InterfaceExcercise.pdb
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\obj\Debug\netcoreapp3.1\InterfaceExcercise.csproj.AssemblyReference.cache
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\obj\Debug\netcoreapp3.1\InterfaceExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\obj\Debug\netcoreapp3.1\InterfaceExcercise.AssemblyInfoInputs.cache
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\obj\Debug\netcoreapp3.1\InterfaceExcercise.AssemblyInfo.cs
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\obj\Debug\netcoreapp3.1\InterfaceExcercise.csproj.CoreCompileInputs.cache
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\obj\Debug\netcoreapp3.1\InterfaceExcercise.dll
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\obj\Debug\netcoreapp3.1\InterfaceExcercise.pdb
+C:\Users\leofr\RiderProjects\InterfaceExcercise\InterfaceExcercise\obj\Debug\netcoreapp3.1\InterfaceExcercise.genruntimeconfig.cache
